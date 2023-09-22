@@ -1,2 +1,7 @@
 Este é o exemplo de um ficheiro de texto file3
 
+
+Linha 3 com poucas palavras
+
+Linha 5
+123
